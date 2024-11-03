@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Caitlin and Caleb",
+    "attended": false,
+    "gift": true,
+    "cash": false,
+    "giftDescription": "Waverly Pond (Set of 4) Dinner Plate by Lenox",
+    "giftReason": "getting settled into our new home as newlyweds",
+    "personalMessage": "Hope everything is going well with the twins and your life in Cinci. Miss you guys.",
+    "address": "Mr. Caleb & Mrs. Caitlin Langhorne Griffith \n5528 Lester Road \nCincinnati, Ohio 45213"
+  },
+  {
+    "name": "Eric and Caitlyn",
+    "attended": true,
+    "gift": true,
+    "cash": false,
+    "giftDescription": "napkins, ice cream scoop, aspen serving bowl",
+    "giftReason": "Caitlyn you were right the ice cream scoop is a game changer!",
+    "personalMessage": "Lindsay wants to do a boys + wives trip soon. Maybe PV?",
+    "address": "Mr. Eric & Mrs. Caitlyn Oberwise \n1606 Somerton Drive \nCosta Mesa, California 92627"
+  },
+  {
+    "name": "Mallory and Sam",
+    "attended": true,
+    "gift": true,
+    "cash": false,
+    "giftDescription": "dutch oven",
+    "giftReason": "baking bread. We've already used it a bunch and love it.",
+    "personalMessage": "Hope you guys are enjoying the cabin life up in New Hampshire.",
+    "address": "Mr. Sam & Mrs. Mallory Pagano \n20 Lawrence Street \nApt 2 \nCharlestown, Massachusetts 02129"
+  },
+  {
+    "name": "Alex and Heather",
+    "attended": false,
+    "gift": true,
+    "cash": false,
+    "giftDescription": "beer glasses",
+    "giftReason": "throwing back natty lights. Just kidding I have a more refined pallet now, I've upgrade to Bud Light.",
+    "personalMessage": "",
+    "address": "Mr. Alex & Mrs. Heather Reynolds \n4890 Paramount Court \nNorth Canton, Ohio 44720"
+  },
+  {
+    "name": "Joyce and Patrick Madden",
+    "attended": true,
+    "gift": true,
+    "cash": false,
+    "giftDescription": "Italian serving tray from Capri",
+    "giftReason": "hosting parties with friends and family.",
+    "personalMessage": "",
+    "address": "Mr. Patrick & Mrs. Joyce Madden \n7 Brookfield Road \nSeymour, CT 06483"
+  },
+  {
+    "name": "Garrett and Christina and Arabella",
+    "attended": true,
+    "gift": false,
+    "cash": true,
+    "amount": 600,
+    "giftDescription": "",
+    "personalMessage": "Can't wait to meet you Arabella, hopefully soon! So happy for you guys, shes adorable.",
+    "address": "Dr. Garrett & Dr. Christina Banks \n1620 Nevada Street \nHouston, Texas 77006"
+  },
+  {
+    "name": "Uncle Tim and Aunt Debbie",
+    "attended": true,
+    "gift": false,
+    "cash": true,
+    "amount": 500,
+    "giftDescription": "",
+    "personalMessage": "",
+    "address": "Mr. Timothy & Mrs. Debra Brophy \n128 Grandview Circle \nFarmingdale, New Jersey 07727"
+  },
+  {
+    "name": "Jackie and Dexter",
+    "attended": true,
+    "gift": false,
+    "cash": true,
+    "amount": 300,
+    "giftDescription": "",
+    "personalMessage": "",
+    "address": "Mrs. Jackie and Mr. Detxer Kennedy \n26 Grove Street \nCranford, NJ 07016"
+  },
+  {
+    "name": "Jack and Maria",
+    "attended": true,
+    "gift": false,
+    "cash": true,
+    "amount": 250,
+    "giftDescription": "",
+    "personalMessage": "",
+    "address": "Mr. Jack & Mrs. Maria Elmore \n17537 Northwood Place \nLakewood Ranch, Florida 34202"
+  },
+  {
+    "name": "Leah and Tyler",
+    "attended": true,
+    "gift": false,
+    "cash": true,
+    "amount": 100,
+    "giftDescription": "",
+    "personalMessage": "Excited to hear about your move to Miami! Good luck to you both.",
+    "address": "Leah Elmore & Tyler Reed \n17537 Northwood Place \nLakewood Ranch, Florida 34202"
+  },
+  {
+    "name": "Andrea and Andrew",
+    "attended": true,
+    "gift": false,
+    "cash": true,
+    "amount": 100,
+    "giftDescription": "",
+    "personalMessage": "Congradulations on the engagement. We're both so happy for you guys.",
+    "address": "The Future Mr. Andrew and Andrea [LAST NAME] \n1510 N Greenview Ave \nApt 3R \nChicago, IL 60647"
+  },
+  {
+    "name": "Isabel and Chris",
+    "attended": true,
+    "gift": false,
+    "cash": true,
+    "amount": 200,
+    "giftDescription": "",
+    "personalMessage": "We need to get together very soon, we miss you guys.",
+    "address": "Mr. Chris & Mrs. Isabel Bonenfant \n31 Eastman Street \nNashua, New Hampshire 03060"
+  },
+  {
+    "name": "Vicki and Nick",
+    "attended": true,
+    "gift": false,
+    "cash": true,
+    "amount": 300,
+    "giftDescription": "",
+    "personalMessage": "We had such a good time at your wedding, a little embaressed you beat me Vicki to getting these thank you's out even with a two month head start.",
+    "address": "Nick & Victoria McIntosh \n99 Throckmorton Lane \nOld Bridge, New Jersey 08857"
+  },
+  {
+    "name": "Steph and Tanya",
+    "attended": true,
+    "gift": false,
+    "cash": true,
+    "amount": 200,
+    "giftDescription": "",
+    "personalMessage": "[Insert personal message]",
+    "address": "Mrs. Stephanie & Mrs. Tanya Cashorali-Banks \n13147 Borrego Street \nVenice, Florida 34293"
+  },
+  {
+    "name": "Sarah and Sean",
+    "attended": true,
+    "gift": false,
+    "cash": true,
+    "amount": 300,
+    "giftDescription": "",
+    "personalMessage": "Looking forward to visitng you guys in Scotland!",
+    "address": "Mrs. Sarah & Mr. Sean Stewart \nFlat D150 \n130 Trongate \nG15EF \nGlasgow, United Kingdom"
+  },
+  {
+    "name": "Aunt Debbie",
+    "attended": true,
+    "gift": false,
+    "cash": true,
+    "amount": 400,
+    "giftDescription": "",
+    "personalMessage": "",
+    "address": "Debbie Brophy \n100 Center Ave \nLittle Falls, NJ 07424"
+  },
+  {
+    "name": "Megan and Luke",
+    "attended": true,
+    "gift": false,
+    "cash": true,
+    "amount": 150,
+    "giftDescription": "",
+    "personalMessage": "",
+    "address": "Mr. Luke & Mrs. Megan Hurches \n37077 Elia Street \nLivonia, Michigan 48154"
+  },
+  {
+    "name": "Ian and Megan",
+    "attended": true,
+    "gift": false,
+    "cash": true,
+    "amount": 150,
+    "giftDescription": "",
+    "personalMessage": "",
+    "address": "Mr. Ian & Mrs. Megan Grosel \n1267 N Grant Avenue \nColumbus, Ohio 43201"
+  }
+]
