@@ -150,8 +150,8 @@
     "address": "Mrs. Sarah & Mr. Sean Stewart \nFlat D150 \n130 Trongate \nG15EF \nGlasgow, United Kingdom"
   },
   {
-    "name": "Aunt Debbie",
-    "attended": true,
+    "name": "Debbie Brophy and Patti Mirrer",
+    "attended": false,
     "gift": false,
     "cash": true,
     "amount": 400,
